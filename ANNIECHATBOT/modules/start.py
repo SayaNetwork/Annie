@@ -42,7 +42,7 @@ STICKER = [
 ]
 
 # Random emojis
-EMOJIOS = ["💣", "💥", "🪄", "🧨", "⚡", "🤡", "👻", "🎃", "🎩", "🕊"]
+EMOJIOS = ["💣", "💥", "🪄", "🧨", "⚡", "😋", "👻", "🎃", "🎩", "🕊"]
 
 
 # Command handler for /start and /aistart
